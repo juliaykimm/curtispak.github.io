@@ -1,0 +1,12 @@
+body{
+    font-family: Times New Roman;
+    background-color: black;
+    color: red;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+img{
+  width: 150px;
+  height: 200px;
+}
