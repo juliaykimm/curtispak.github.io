@@ -1,0 +1,93 @@
+main{
+  text-align:center;
+  font-size:=50px;
+  font-family: 'Arial', sans-serif;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+
+body{
+  text-align:center;
+  background: black;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  font-size: 30px;
+}
+
+#intro
+{
+  color:white;
+  text-align:center;
+  font-size: 2vw;
+
+}
+
+#p1
+{
+
+  background-color:white;
+  color:black;
+  width:700px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#p2
+{
+
+  background-color:white;
+  color:black;
+  width:800px;
+  height:300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#p3{
+  background-color:white;
+  color:black;
+  width:700px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sp1{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  width: auto;
+  height:auto;
+  border-radius: 50% 50% 50% 50%
+}
+
+.sp2{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  width: 35%;
+  height:35%;
+  border-radius: 50% 50% 50% 50%
+
+}
+.sp3{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  width: auto;
+  height:auto;
+  border-radius: 50% 50% 50% 50%
+}
+
+
+#nextbutton{
+  position: sticky;
+
+}
+
+#backbutton{
+  position: sticky;
+
+}
